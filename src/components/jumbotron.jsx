@@ -2,7 +2,7 @@ import React from "react";
 import Iphone from "../assets/images/iphone-14.jpg"
 import HoldingIphone from "../assets/images/iphone-hand.png"
 
-function Jumbotron() {
+function Jumbotron() { 
 
     const handleLearnMore = () => {
 
